@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest",
     "cest": "jest --collectCoverage",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint *.js",
     "lint:fix": "eslint --fix *.js"
   },
