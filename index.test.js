@@ -1,4 +1,4 @@
-var isSaul = require('./index')
+var isSaul = require('./index');
 
 describe('Testing isSaul', function(){
     it('should return true passing Geo', function(){
