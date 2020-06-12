@@ -2,4 +2,4 @@ function isSaul (input) {
   return input === 'Saul'
 }
 
-module.exports = isSaul
+module.exports = isSaul;
